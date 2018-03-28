@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/niklas/Documents/EXERCISES/Android/architectureComponentsSunshineStartingCode/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/primary_weather_info.xml",
+        "source": "/Users/niklas/Documents/EXERCISES/Android/architectureComponentsSunshineStartingCode/app/src/main/res/layout/primary_weather_info.xml"
+    },
+    {
+        "merged": "/Users/niklas/Documents/EXERCISES/Android/architectureComponentsSunshineStartingCode/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_forecast.xml",
+        "source": "/Users/niklas/Documents/EXERCISES/Android/architectureComponentsSunshineStartingCode/app/src/main/res/layout/activity_forecast.xml"
+    },
+    {
+        "merged": "/Users/niklas/Documents/EXERCISES/Android/architectureComponentsSunshineStartingCode/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_detail.xml",
+        "source": "/Users/niklas/Documents/EXERCISES/Android/architectureComponentsSunshineStartingCode/app/src/main/res/layout/activity_detail.xml"
+    },
+    {
+        "merged": "/Users/niklas/Documents/EXERCISES/Android/architectureComponentsSunshineStartingCode/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/extra_weather_details.xml",
+        "source": "/Users/niklas/Documents/EXERCISES/Android/architectureComponentsSunshineStartingCode/app/src/main/res/layout/extra_weather_details.xml"
+    }
+]
